@@ -14,7 +14,7 @@
 
 This API provides endpoints for managing products and sales. It includes offline synchronization capabilities with conflict resolution.
 
-**BASE URL**: `http://api.localhost:8000/v1`
+**BASE URL**: `http://localhost:8000/api/v1`
 
 **Response Format**: All responses are in JSON format with a consistent structure:
 ```json
